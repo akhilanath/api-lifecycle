@@ -1,1 +1,20 @@
 
+{
+	"info": {
+		"_postman_id": "feabe973-1642-47ff-b4a2-b6071fc63d9f",
+		"name": "example",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://api-lifecycle-git-rhte-build.cib-1594987568-f72ef11f3ab089a8c677044eb28292cd-0000.sjc03.containers.appdomain.cloud/api/beer/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://api-lifecycle-git-rhte-build.cib-1594987568-f72ef11f3ab089a8c677044eb28292cd-0000.sjc03.containers.appdomain.cloud/api/beer/"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
